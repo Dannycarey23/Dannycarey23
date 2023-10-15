@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋
 
 - 🔭 I’m currently working on CodeClan's 16 week Professional Software Development course.
 - 🌱 I’m currently learning Python, JavaScript, React, Java, HTML5, CSS3, SQL, MongoDB and many other things
